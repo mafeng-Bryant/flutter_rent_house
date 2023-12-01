@@ -117,5 +117,6 @@ Dart语言的在线编辑器
 ![WechatIMG713](https://github.com/mafeng-Bryant/flutter_rent_house/assets/9261534/2a46c3c8-fcab-45dc-b3c6-3493ac31fada)
 
 
-
+https://img.shields.io/github/views/<feng.ma@patpat.com>/<flutter_rent_house
+>?label=Visits
 
