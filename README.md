@@ -129,10 +129,8 @@ Dart语言的在线编辑器
 
 如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和这个项目的持续维护。你可以扫描下面的二维码，让我喝一杯咖啡或啤酒。非常感谢您的捐赠。谢谢！
 
-![赞赏](https://github.com/AweiLoveAndroid/Flutter-learning/blob/master/pics/donation.png?raw=true)
+[WechatIMG713](https://github.com/mafeng-Bryant/flutter_rent_house/assets/9261534/618ec07e-3bae-4234-9f69-c508c4318a55)
 
-
-----![WechatIMG713](https://github.com/mafeng-Bryant/flutter_rent_house/assets/9261534/618ec07e-3bae-4234-9f69-c508c4318a55)
 
 
 
