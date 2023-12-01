@@ -60,21 +60,7 @@ Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(
 
 ----
 
-## 四、本人的开源框架和插件库
-
-* #### :fire: [自己写的轻量级路由框架 FRouter，让路由使用和书写更容易，更好处理和维护。值得关注一下。](https://github.com/AweiLoveAndroid/Flutter-learning/tree/master/FRouter)
-
-* #### :+1: [友盟统计Flutter插件](https://github.com/AweiLoveAndroid/umeng_analytics_flutter)
-
-* #### :+1: [Flutter调用Android的电量和判断是否充电插件](https://github.com/AweiLoveAndroid/flutter_os)
-
-* #### :+1: [Flutter获取Android设备信息插件](https://github.com/AweiLoveAndroid/flutter_device_information)
-
-* #### :+1: [Flutter常用的工具类](https://github.com/AweiLoveAndroid/FlutterUtil)
-
-----
-
-## 五、Flutter相关学习文档
+## 四、Flutter相关学习文档
 
 * #### [Flutter相关译文](https://github.com/AweiLoveAndroid/Flutter-learning/blob/master/flutter-learning-doc-resources/%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E8%AF%91%E6%96%87/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%8F%82%E8%80%83.md)
 
