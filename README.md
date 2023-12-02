@@ -27,27 +27,7 @@ Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(
 * #### [yarn，nodejs，npm，Flutter有关命令](https://github.com/AweiLoveAndroid/Flutter-learning/blob/master/readme/yarn%EF%BC%8Cnodejs%EF%BC%8Cnpm%EF%BC%8CFlutter%E6%9C%89%E5%85%B3%E5%91%BD%E4%BB%A4.md)
 
 
-
-----
-
-
-## 二、Flutter原创干货视频
-
-####  :fire: :movie_camera: [Flutter基础快速入门全攻略](https://edu.csdn.net/course/detail/26227)  
-从开发实践中得来的经验和教训，全部免费赠送给大家。示例都是开发中用到的，结合具体案例做基础知识讲解，作者讲解的细致好懂，思路清晰，作者课后答疑解惑耐心仔细，帮助了很多开发者，难得一遇的良心讲师。
-
-
-####  :fire: :movie_camera: [Flutter实战网易新闻APP](https://edu.csdn.net/course/detail/26858)  
-你不成长，就会被淘汰；你不学习新知识，就会被陈旧的不符合发展趋势的技术耽误自己的前途。那么问题来了，如今跨平台技术那么火爆，Flutter又是最牛逼全面的一个技术，难道你想眼睁睁被社会无情淘汰吗？让你学好Flutter，能够使用Flutter进行项目开发，升职加薪不再是梦。
-
-
-####  :fire: :movie_camera: [Flutter从基础到实践全套视频](https://edu.csdn.net/combo/detail/1533)
-本套餐包含入门+进阶实战课程，免费赠送Flutter基础课程，从简到难、从浅入深，逐步带领大家了解Flutter，熟悉掌握Flutter的组成部分，最后以一个完整的仿网易新闻的UI实战讲解，教会大家如何合理选择UI组件，并且使用组件快速实现我们的需求，完成一个完整的Flutter项目，让你学完即可进入企业项目实践。
-
-
-----
-
-## 三、相关示例代码和项目实战
+## 二、相关示例代码和项目实战
 
 * #### :fire:  [Flutter相关demo示例代码](https://github.com/AweiLoveAndroid/Flutter-learning/tree/master/projects/flutter-demo)
 
@@ -57,7 +37,7 @@ Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(
 
 ----
 
-## 四、Flutter相关学习文档
+## 三、Flutter相关学习文档
 
 * #### [Flutter相关译文](https://github.com/AweiLoveAndroid/Flutter-learning/blob/master/flutter-learning-doc-resources/%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E8%AF%91%E6%96%87/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%8F%82%E8%80%83.md)
 
@@ -73,7 +53,7 @@ Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(
 
 ----
 
-## 五、Flutter、Dart有关网站
+## 四、Flutter、Dart有关网站
 
 ###  ★   Flutter有关网站
 
