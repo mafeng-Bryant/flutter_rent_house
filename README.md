@@ -26,7 +26,6 @@ Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(
 
 * #### [yarn，nodejs，npm，Flutter有关命令](https://github.com/AweiLoveAndroid/Flutter-learning/blob/master/readme/yarn%EF%BC%8Cnodejs%EF%BC%8Cnpm%EF%BC%8CFlutter%E6%9C%89%E5%85%B3%E5%91%BD%E4%BB%A4.md)
 
-* #### [我模仿Flutter中文官网写的一个本地的html页面，同时将官网的一些**未翻译的英文**页面**翻译**成了中文。](https://github.com/AweiLoveAndroid/FlutterWebsiteCN_Mine)
 
 
 ----
@@ -54,8 +53,6 @@ Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(
 
 
 * #### :fire:  [Dart语法详解相关示例代码](https://github.com/AweiLoveAndroid/Flutter-learning/tree/master/projects/dart_demo/test)
-
-* #### [自己封装的一个线性渐变工具类FractionalOffsetUtil.dart](https://github.com/AweiLoveAndroid/Flutter-learning/blob/master/projects/flutter-demo/util/FractionalOffsetUtil.dart)
 
 
 ----
